@@ -4,14 +4,14 @@ This repo contains Dockerfiles for setting up RCCService in a Docker container.
 
 ## Usage
 
-1. Understanding the Dockerfile:
+1. **Understanding the Dockerfile:**
    Open the Dockerfile in any IDE to understand the setup. Customize it as needed, such as configuring registry keys if required.
 
-2. Build the Docker Image:
+2. **Build the Docker Image:**
    Run the following command to build the Docker image:
    `docker build -t roblox-rcc-service .`
 
-3. Run the Container:
+3. **Run the Container:**
    Customize the `docker run` command if needed, including port mappings and volumes.
 
    **Example with Port Mapping:**
