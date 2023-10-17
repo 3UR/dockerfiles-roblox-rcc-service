@@ -27,5 +27,6 @@ This repo contains Dockerfiles for setting up RCCService in a Docker container.
 
 - Make sure you have Docker installed and properly configurd on your system.
 - Ensure paths and settings are correct for your RCCService.
+- https://github.com/3UR/dockerfiles-roblox-rcc-service/blob/main/2008/windows/.dockerfile **EXPECTS THE RCCSERVICE TO BE IN THE SAME DIRECTORY AS 'WORKDIR', WORKDIR CAN BE CHANGED IF NEEDED**
 
 For more information on Docker, refer to the official Docker documentation.
